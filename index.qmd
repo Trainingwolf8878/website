@@ -1,0 +1,5 @@
+---
+title: ""
+---
+
+I am a senior student majoring in statistics, expecting to graduate this year. With over three years of experience in statistical studies, I am proficient in using R and SQL languages. I enjoy creating useful scripts and conducting data analysis through the exploration of computer languages. You can find summaries of the scripts I have written and data analyses I have conducted on my GitHub profile, the link to which I will provide below for your reference.
